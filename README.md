@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-3gxRsBkM_)
-- Live Site URL: [live site](https://bitterrsweetj.github.io/stats-preview-card-component-main/)
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-3gxRsBkM_)
+- Live Site URL: [here](https://bitterrsweetj.github.io/stats-preview-card-component-main/)
 
 ## My process
 

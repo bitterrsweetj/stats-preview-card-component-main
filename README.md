@@ -19,7 +19,10 @@ Users should be able to:
 
 ### Screenshot
 
+Desktop version
 ![](./screenshot.png)
+Mobile version 
+![](./screenshot2.png)
 
 ### Links
 

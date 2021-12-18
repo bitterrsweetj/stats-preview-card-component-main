@@ -22,6 +22,7 @@ Users should be able to:
 Desktop version
 ![](./screenshot.png)
 Mobile version 
+
 ![](./screenshot2.png)
 
 ### Links
